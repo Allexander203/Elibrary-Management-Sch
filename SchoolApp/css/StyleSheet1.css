@@ -1,0 +1,25 @@
+﻿.footerlinks {
+    color: #000000;
+    text-decoration: none !important;
+}
+
+    .footerlinks:hover {
+        color: #7a95ff;
+    }
+
+#footer1 {
+    
+}
+
+#LinkButton6:hover {
+    color: #808080;
+}
+
+body {
+    background-image: url('../images/f3398efac66923618b077f618fb704d4.jpg.05d34e3d74232a5d75dd287184bc1923.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.card-body {
+    background-color:snow;
+}
